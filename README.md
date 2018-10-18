@@ -1,5 +1,7 @@
 # Link Media Ext Html Webpack Plugin
 
+[![Build Status](https://travis-ci.org/andrianovp/link-media-ext-html-webpack-plugin.svg?branch=master)](https://travis-ci.org/andrianovp/link-media-ext-html-webpack-plugin) [![Coverage Status](https://coveralls.io/repos/andrianovp/link-media-ext-html-webpack-plugin/badge.svg?branch=master)](https://coveralls.io/github/andrianovp/link-media-ext-html-webpack-plugin?branch=master)
+
 This is an extension plugin for [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin). It sets standard and custom media attributes for link tags like [link-media-html-webpack-plugin](https://github.com/probablyup/link-media-html-webpack-plugin) but uses configuration object similar to [script-ext-html-webpack-plugin](https://github.com/numical/script-ext-html-webpack-plugin).
 
 ## Installation

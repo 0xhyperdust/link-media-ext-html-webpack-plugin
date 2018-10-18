@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
+    "coveralls": "^3.0.2",
     "css-loader": "^1.0.0",
     "eslint": "^5.6.0",
     "eslint-config-google": "^0.10.0",
