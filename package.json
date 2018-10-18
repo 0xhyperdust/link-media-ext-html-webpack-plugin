@@ -1,0 +1,29 @@
+{
+  "name": "link-media-ext-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Adds standard or custom media attributes to link tags processed by html-webpack-plugin",
+  "main": "index.js",
+  "repository": "https://github.com/andrianovp/link-media-ext-html-webpack-plugin",
+  "author": "Pavel Andrianov",
+  "license": "MIT",
+  "peerDependencies": {
+    "html-webpack-plugin": "^3.0.0",
+    "webpack": "^3.0.0 || ^4.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.19",
+    "css-loader": "^1.0.0",
+    "eslint": "^5.6.0",
+    "eslint-config-google": "^0.10.0",
+    "html-webpack-plugin": "^3.2.0",
+    "jest": "^23.6.0",
+    "mini-css-extract-plugin": "^0.4.3",
+    "webpack": "^4.19.1"
+  }
+}
